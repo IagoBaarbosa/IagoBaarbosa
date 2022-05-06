@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iago Barbosa 💻</h1>
-<h3 align="center">Sou formado em Ed. Física, porem sempre fui apaixonado por tecnologia e em novembro de 2021 comecei meus estudos em programação, resumindo estou migrando de área e posso me declarar um estudante ávido por novos conhecimentos e em busca de novas oportunidades.</h3>
+<h3 align="center">Sou formado em Ed. Física, porem sempre fui apaixonado por tecnologia e em agosto de 2021 comecei meus estudos em programação, resumindo estou migrando de área e posso me declarar um estudante ávido por novos conhecimentos e em busca de novas oportunidades.</h3>
 
 
 <p align="left">
